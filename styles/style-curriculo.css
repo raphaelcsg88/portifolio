@@ -1,0 +1,47 @@
+.apresentacao__curriculo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 5% 20%;
+    
+}
+
+.apresentacao__curriculo__apresentacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    font-size: 21px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+}
+
+.apresentacao__curriculo__resumo {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 19px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+}
+
+.apresentacao__curriculo__experiencia {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    gap: 15px;
+    font-size: 19px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+}
+
+.apresentacao__curriculo__formacao {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    gap: 20px;
+    font-size: 19px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;   
+}
